@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @InnovatorIIT
+- 👋 Hi, I’m @InnovatorIIT ~ Anand S Nambiar
+- 👨🏻‍🎓 Student at IIT Indore
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Mechanical Engineering
-- 🌱 I’m currently learning Mechanical Engineering from IIT Indore with AI/ML
+- 🌱 I’m currently learning AI/ML/DL
 - 💞️ I’m looking to collaborate on Integration of AI/ML/DL techniques to solve real world issues
-- 📫 You can reach me at anand.nambiar0704@gmail.com or me230003046@iiti.ac.in
+- 📫 You can reach me at www.linkedin.com/in/nambanand
 
 <!---
 InnovatorIIT/InnovatorIIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
