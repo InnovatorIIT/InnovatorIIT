@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @InnovatorIIT ~ Anand S Nambiar
 - 👨🏻‍🎓 Student at IIT Indore
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Mechanical Engineering
-- 🌱 I’m currently learning AI/ML/DL
-- 💞️ I’m looking to collaborate on Integration of AI/ML/DL techniques to solve real world issues
+- 🌱 I’m currently learning AI/ML/DL along with CAD
+- 💞️ I’m looking to collaborate on Integration of AI/ML/DL techniques with Mechanical Engineering to solve real world issues
 - 📫 You can reach me at www.linkedin.com/in/nambanand
 
 <!---
